@@ -1,0 +1,12 @@
+c:\users\620786\documents\visual studio 2015\Projects\Hua Hong_CPRG200_Lab4\Hua Hong_CPRG200_Lab4\bin\Debug\Hua Hong_CPRG200_Lab4.exe.config
+C:\Users\620786\Documents\Visual Studio 2015\Projects\Hua Hong_CPRG200_Lab4\Hua Hong_CPRG200_Lab4\bin\Debug\NORTHWND.MDF
+C:\Users\620786\Documents\Visual Studio 2015\Projects\Hua Hong_CPRG200_Lab4\Hua Hong_CPRG200_Lab4\bin\Debug\NORTHWND_log.ldf
+C:\Users\620786\Documents\Visual Studio 2015\Projects\Hua Hong_CPRG200_Lab4\Hua Hong_CPRG200_Lab4\bin\Debug\Hua Hong_CPRG200_Lab4.exe
+C:\Users\620786\Documents\Visual Studio 2015\Projects\Hua Hong_CPRG200_Lab4\Hua Hong_CPRG200_Lab4\bin\Debug\Hua Hong_CPRG200_Lab4.pdb
+C:\Users\620786\Documents\Visual Studio 2015\Projects\Hua Hong_CPRG200_Lab4\Hua Hong_CPRG200_Lab4\obj\Debug\Hua Hong_CPRG200_Lab4.csprojResolveAssemblyReference.cache
+C:\Users\620786\Documents\Visual Studio 2015\Projects\Hua Hong_CPRG200_Lab4\Hua Hong_CPRG200_Lab4\obj\Debug\Hua_Hong_CPRG200_Lab4.frmOrderMaintenance.resources
+C:\Users\620786\Documents\Visual Studio 2015\Projects\Hua Hong_CPRG200_Lab4\Hua Hong_CPRG200_Lab4\obj\Debug\Hua_Hong_CPRG200_Lab4.Properties.Resources.resources
+C:\Users\620786\Documents\Visual Studio 2015\Projects\Hua Hong_CPRG200_Lab4\Hua Hong_CPRG200_Lab4\obj\Debug\Hua Hong_CPRG200_Lab4.csproj.GenerateResource.Cache
+C:\Users\620786\Documents\Visual Studio 2015\Projects\Hua Hong_CPRG200_Lab4\Hua Hong_CPRG200_Lab4\obj\Debug\Hua Hong_CPRG200_Lab4.exe
+C:\Users\620786\Documents\Visual Studio 2015\Projects\Hua Hong_CPRG200_Lab4\Hua Hong_CPRG200_Lab4\obj\Debug\Hua Hong_CPRG200_Lab4.pdb
+C:\Users\620786\Documents\Visual Studio 2015\Projects\Hua Hong_CPRG200_Lab4\Hua Hong_CPRG200_Lab4\obj\Debug\Hua_Hong_CPRG200_Lab4.frmModifyOrder.resources
